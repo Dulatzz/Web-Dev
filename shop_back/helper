@@ -1,6 +1,0 @@
-.\venv\Scripts\activate
-cd .\shop_back\
-py manage.py runserver 
-
-py manage.py createsuperuser 
-admin asd
